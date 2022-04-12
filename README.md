@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Wave&color=fcb6d0&height=200&section=header&text=HI'MSONGMOANA&fontColor=363737&fontSize=60)
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>                
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+--
+                ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)
 ![ApacheHadoop](https://img.shields.io/badge/ApacheHadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=ffffff)
 ![ApacheHive](https://img.shields.io/badge/ApacheHive-FDEE21?style=flat-square&logo=ApacheHive&logoColor=ffffff)
